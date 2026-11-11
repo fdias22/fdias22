@@ -1,3 +1,6 @@
+<img width="668" height="459" alt="images (2)" src="https://github.com/user-attachments/assets/dc7c20c1-b35c-4f1b-861c-f71fa40198e7" />
+
+
 <div align="center">
   <h1>Francisco Dias 👋</h1>
   <p><strong>Computer Science Student · Switzerland 🇨🇭</strong></p>
